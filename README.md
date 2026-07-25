@@ -270,6 +270,8 @@ Computer Science & Engineering Student
 
 Aspiring Data Analyst | BI Engineer | Data Engineer
 
+Email : naim5641@gmail.com
+
 GitHub: https://github.com/naim5641
 
 LinkedIn: https://www.linkedin.com/in/md-naim-uddin-279896275/
