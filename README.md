@@ -92,7 +92,7 @@ The database was designed using a normalized schema to improve data consistency 
 
 ```md
 
-```
+```![Database Schema](images/schema.png)
 
 ---
 
