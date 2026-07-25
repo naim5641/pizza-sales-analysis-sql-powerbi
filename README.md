@@ -159,13 +159,23 @@ The dashboard includes:
 
 ---
 
-## Dashboard Preview
+# Power BI Dashboard
 
-> *(Replace with your dashboard screenshot)*
+The interactive Power BI dashboard provides key business insights through various visualizations, including:
 
-```md
+- KPI Cards
+- Revenue Trend
+- Monthly Sales
+- Hourly Orders
+- Daily Orders
+- Category Performance
+- Pizza Size Distribution
+- Top & Bottom Selling Pizzas
+- Interactive Filters
 
-```
+### Dashboard Preview
+
+![Power BI Dashboard](Images/dashboard.png)
 
 ---
 
