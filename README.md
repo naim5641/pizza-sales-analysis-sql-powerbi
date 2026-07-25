@@ -75,7 +75,7 @@ pizza-sales-analysis/
 
 # Database Schema
 
-The database was designed using a normalized schema to improve data consistency and query performance.
+The database was designed using a normalized relational schema to ensure data consistency, eliminate redundancy, and improve query performance.
 
 ### Main Tables
 
@@ -83,6 +83,10 @@ The database was designed using a normalized schema to improve data consistency 
 - Order Details
 - Pizzas
 - Pizza Types
+
+### Schema Diagram
+
+![Database Schema](Images/schema.png)
 
 ---
 
