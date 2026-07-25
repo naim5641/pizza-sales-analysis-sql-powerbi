@@ -86,15 +86,6 @@ The database was designed using a normalized schema to improve data consistency 
 
 ---
 
-## Database Schema Diagram
-
-> *(Add your schema image below)*
-
-```md
-
-```![Database Schema](images/schema.png)
-
----
 
 # Data Cleaning
 
@@ -108,7 +99,6 @@ Cleaning tasks included:
 - Standardizing column values
 - Data validation
 
----
 
 # Business Questions Solved
 
@@ -133,7 +123,6 @@ Examples of analysis performed:
 
 Total SQL Business Questions Solved: **20+**
 
----
 
 # SQL Views
 
@@ -148,7 +137,6 @@ Examples:
 - vw_top_pizzas
 - vw_bottom_pizzas
 
----
 
 # Power BI Dashboard
 
