@@ -91,7 +91,7 @@ The database was designed using a normalized schema to improve data consistency 
 > *(Add your schema image below)*
 
 ```md
-![Database Shema](Images/schema.png.png)
+
 ```
 
 ---
@@ -172,7 +172,7 @@ The dashboard includes:
 > *(Replace with your dashboard screenshot)*
 
 ```md
-![Power BI Dashboard](Images/dashboard.png.png)
+
 ```
 
 ---
